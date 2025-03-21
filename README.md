@@ -9,4 +9,4 @@ The goal of this project is to implement an automatic washing machine using Veri
 <br>
 
 # output
-![output](output.png)
+![output](washing_machine_output.png)
